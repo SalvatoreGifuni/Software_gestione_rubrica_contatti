@@ -1,0 +1,39 @@
+{
+    "Michele Santoro": {
+        "name": "Michele",
+        "surname": "Santoro",
+        "numbers": [
+            "3232213453",
+            "3334234356",
+            "unknown"
+        ],
+        "emails": [
+            "michesant-98@hotmail.com",
+            "unknown"
+        ],
+        "more_info": "None"
+    },
+    "Emily Bronte": {
+        "name": "Emily",
+        "surname": "Bronte",
+        "numbers": [
+            "unknown"
+        ],
+        "emails": [
+            "emily_bronte88@truepwer.com"
+        ],
+        "more_info": "Viale del Lungomare n.66"
+    },
+    "Salvatore  ": {
+        "name": "Salvatore",
+        "surname": " ",
+        "numbers": [
+            "3322123789",
+            "8873328897"
+        ],
+        "emails": [
+            "unknown"
+        ],
+        "more_info": "Via dei Pescatori 30"
+    }
+}
